@@ -1,6 +1,6 @@
-# Itinerary: Liburan ke Yogyakarta
+# Liburan ke Yogyakarta
 
-## Hari 1: Kedatangan dan Jelajah Kota
+## Kedatangan dan Jelajah Kota
 - **09:00 AM**: Tiba di Bandara Internasional Yogyakarta
 - **09:30 AM**: Transfer ke Hotel dan Check-in
 - **11:00 AM**: Kunjungan ke Kraton Yogyakarta
