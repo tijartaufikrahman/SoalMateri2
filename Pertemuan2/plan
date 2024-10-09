@@ -1,4 +1,9 @@
-* Trip Planning
-  1. 
-  2.
-  3.
+# Anggaran Perjalanan
+
+| Item            | Deskripsi                   | Biaya       |
+|-----------------|-----------------------------|-------------|
+| Tiket Bus       | Tiket pulang pergi          | Rp7.500.000 |
+| Akomodasi       | Penginapan 5 malam          | Rp4.000.000 |
+| Makanan         | Konsumsi selama 5 hari      | Rp2.500.000 |
+| Transportasi    | Transportasi lokal          | Rp1.500.000 |
+| Total           |                             | Rp15.500.000 |
